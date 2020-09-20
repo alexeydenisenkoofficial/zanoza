@@ -1,4 +1,4 @@
-public class naumber_one_one {
+public class number_one_one {
     public static void main (String[] args)
     {
         int Size=5,j=0;
