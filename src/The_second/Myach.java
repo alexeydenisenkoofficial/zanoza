@@ -1,4 +1,4 @@
-package Problem2;
+package The_second;
 
 public class Myach {
     
