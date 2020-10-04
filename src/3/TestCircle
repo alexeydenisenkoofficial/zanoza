@@ -1,0 +1,12 @@
+package 3;
+
+public class TestCircle {
+    public static void main(String[] args){
+        Circle cir = new Circle("Белый", 7);
+        System.out.println(cir.toString());
+        cir.setColor("Розовый");
+        cir.setRadius(17);
+
+        System.out.println(cir);
+    }
+}
