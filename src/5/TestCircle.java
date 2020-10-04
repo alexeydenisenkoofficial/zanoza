@@ -3,7 +3,7 @@ package 5;
 public class TestCircle {
     public static void main(String[] args) {
 
-        MovableRectangle rectangle = new MovableRectangle(0,3,1,1,2,5,1,1);
+        MovableRectangle rectangle = new MovableRectangle(0,3,1,1,5,0,1,1);
 
         System.out.println(rectangle);
 
